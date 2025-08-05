@@ -44,7 +44,3 @@ This project implements a standardized, end-to-end time-series forecasting pipel
 ## Contributing
 
 Contributions and issue reports are welcome! Please fork the repo, make your changes, and submit a pull request.
-
-
-
-This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
