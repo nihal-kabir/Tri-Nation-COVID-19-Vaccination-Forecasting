@@ -44,3 +44,21 @@ This project implements a standardized, end-to-end time-series forecasting pipel
 ## Contributing
 
 Contributions and issue reports are welcome! Please fork the repo, make your changes, and submit a pull request.
+
+## References
+
+Mohan, S., Solanki, A. K., Taluja, H. K., Anuradha, Singh, A. (2022). Predicting the impact of the third wave of COVID-19 in India using hybrid statistical machine learning models: A time series forecasting and sentiment analysis approach. Computers in Biology and Medicine, 144, 105354. https://doi.org/10.1016/j.compbiomed.2022.105354
+
+Dofadar, D. F., Khan, R. H., Alam, M. G. R. (2021). COVID-19 Confirmed Cases and Deaths Prediction in Bangladesh Using Hidden Markov Model. IEEE. https://doi.org/10.1109/biosmart54244.2021.9677841
+
+Ye, J., Hai, J., Wang, Z., Wei, C., Song, J. (2023). Leveraging natural language processing and geospatial time series model to analyze COVID-19 vaccination sentiment dynamics on Tweets. JAMIA Open, 6(2). https://doi.org/10.1093/jamiaopen/ooad023
+
+Zeitouny, S., Suda, K. J., Mitsantisuk, K., Law, M. R., Tadrous, M. (2021). Mapping global trends in vaccine sales before and during the first wave of the COVID-19 pandemic: a cross-sectional time-series analysis. BMJ Global Health, 6(12), e006874. https://doi.org/10.1136/bmjgh-2021-006874
+
+Thorakkattle, M. N., Farhin, S., Khan, A. A. (2022). Forecasting the Trends of Covid-19 and Causal Impact of Vaccines Using Bayesian Structural time Series and ARIMA. Annals of Data Science, 9(5), 1025–1047. https://doi.org/10.1007/s40745-022-00418-4
+
+Zaidi, S. a. J., Tariq, S., Belhaouari, S. B. (2021). Future prediction of COVID-19 vaccine trends using a voting classifier. Data, 6(11), 112. https://doi.org/10.3390/data6110112
+
+Abdulkareem, N. M., Abdulazeez, A. M., Zeebaree, D. Q., Hasan, D. A. (2021). COVID-19 World vaccination progress using machine learning classification algorithms. Qubahan Academic Journal, 1(2), 100–105. https://doi.org/10.48161/qaj.v1n2a53
+
+
