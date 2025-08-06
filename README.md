@@ -4,6 +4,9 @@
 
 This project implements a standardized, end-to-end time-series forecasting pipeline to project 180-day COVID-19 vaccination totals across Bangladesh, India, and Pakistan. It focuses on reproducible data processing, robust model evaluation, and clear comparative insights.
 
+## Dataset
+Link: https://drive.google.com/file/d/1bCxhq18K5KVFuOPxzrFzupyLPi2Q74aY/view?usp=sharing
+
 ## Key Features
 
 * **Multi-country forecasting:** Uniform pipeline applied to three countries.
